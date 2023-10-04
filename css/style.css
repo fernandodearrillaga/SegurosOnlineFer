@@ -1,0 +1,21 @@
+.titChar{
+    color: aqua;
+    background-color: blueviolet;
+}
+.chars{
+    display: flex;
+    align-items: center;
+    display: grid;
+    /***grid-template-columns: repeat(auto-fill,minmax(250px,1fr));*/
+    gap: 5em;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 15em;
+    margin-right: 15em;
+  }
+  .panel > .panel-heading {
+    background-image: none;
+    background-color: blue;
+    color: white;
+
+}
