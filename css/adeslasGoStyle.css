@@ -304,9 +304,12 @@
 }
 .producto{
   background-color: #334b9b;
+  color: #fff;
+  font-size: 30px;
 }
 .precio{
   background-color: #ffffff;
+  font-size: 30px;
 }
 .extras{
   background-color: grey;
