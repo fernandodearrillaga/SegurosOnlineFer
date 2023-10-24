@@ -286,6 +286,7 @@
   height: 15em;
   text-align: center;
   align-items: center;
+  background-color: #ffffff;
 
 }
 .foot div{
@@ -317,4 +318,8 @@
 }
 .imagenSeguro{
   max-height: 100px;
+}
+.formulario{
+  background-image: url(../img/slider1.jpg);
+  
 }
